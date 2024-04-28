@@ -13,6 +13,9 @@ This is a responsive portfolio website built using React. It showcases my skills
 - **Contact**: Contact form and links to reach out to me.
 - **Footer**: Footer section with navigation links and social media handles.
 
+![react5](https://github.com/fahad0samara/react-portfolio/assets/90055525/57cef675-c54b-4e49-ba5d-ba8fcb350958)
+
+
 ## Technologies Used
 
 - React
